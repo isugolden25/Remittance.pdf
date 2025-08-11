@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://abre.ai/nf55"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://toil.sa.com/gold/"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
